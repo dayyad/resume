@@ -1,0 +1,9 @@
+.heading-curve {
+  // Add some shapes here.
+
+  //   Leave top un changed
+  // Give the bottom a wave using the border radiuses
+  //   The wave inverts half way along
+  border-bottom-left-radius: 50% 30%;
+  border-bottom-right-radius: 50% 30%;
+}

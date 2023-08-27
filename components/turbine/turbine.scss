@@ -1,0 +1,10 @@
+.turbine-rotor {
+  transform-origin: 150.5px 128.5px;
+  animation: spin 5s linear infinite;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
